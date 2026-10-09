@@ -1,0 +1,30 @@
+Política de privacidade — Beba Água BR
+JVM Studios
+Vigência e última atualização: 9 de outubro de 2026
+
+1. Sobre o aplicativo
+O Beba Água BR, pacote br.com.jvmstudios.bebaagua, permite registrar o consumo de água, escolher metas e configurar lembretes. Esta política descreve a configuração atual do aplicativo. Não há criação de conta ou servidor próprio para armazenar os registros de hidratação.
+
+2. Dados armazenados no celular
+Registros de água, metas, horários, recipientes, preferências e conquistas permanecem no dispositivo. O aplicativo não envia esses registros aos serviços de publicidade como eventos personalizados. O backup automático do Android está desativado. Os registros ficam armazenados até sua exclusão nas configurações do aplicativo ou desinstalação. A exclusão local não apaga automaticamente informações já processadas pelos serviços de publicidade.
+
+3. Permissões e notificações
+A permissão de notificações é opcional. O aplicativo pode solicitar autorização especial para alarmes exatos, para alertar nos horários escolhidos. Sem essa autorização, podem ocorrer atrasos. Eventos de reinicialização e mudança de horário permitem reagendar os lembretes. Alertas por falta de registro se baseiam no histórico local: não medem o consumo real de água. As configurações permitem desativar os lembretes. O aplicativo não solicita acesso a contatos, localização precisa ou dados de outros aplicativos de saúde.
+
+4. Publicidade e serviços do Google
+O aplicativo utiliza Google AdMob (Google Mobile Ads SDK) e User Messaging Platform (UMP). Esses serviços podem coletar e compartilhar endereço IP, localização aproximada derivada da rede, identificadores de publicidade e do dispositivo, interações com o aplicativo e anúncios e informações de diagnóstico. As finalidades incluem exibição e medição de publicidade, análise de desempenho e prevenção de fraude. O UMP processa informações de consentimento e apresenta as escolhas exigidas conforme a região e a configuração das mensagens. As opções de privacidade de publicidade ficam acessíveis nas configurações quando disponibilizadas pelo serviço. Também é possível redefinir ou excluir o identificador de publicidade nos ajustes do Android. Não vendemos os registros locais de hidratação.
+
+5. Segurança, retenção e processamento por terceiros
+Os dados transmitidos pelo SDK de anúncios são protegidos em trânsito por TLS. Nenhuma tecnologia garante segurança absoluta. Os serviços do Google podem processar dados em outros países, conforme suas políticas e salvaguardas aplicáveis. A retenção, as bases legais e os mecanismos de exercício de direitos relativos a esses serviços dependem de sua atuação e estão descritos na Política de Privacidade do Google: https://policies.google.com/privacy. Informações sobre o SDK: https://developers.google.com/admob/android/privacy/play-data-disclosure. Não mantemos uma base de registros de hidratação fora do seu celular.
+
+6. Analytics e relatórios de falhas
+Firebase Analytics e Crashlytics não estão habilitados nesta configuração do aplicativo. Sua eventual ativação em uma versão futura será acompanhada de atualização desta política e das declarações da loja.
+
+7. Direitos e contato
+Para solicitar esclarecimentos ou exercer direitos aplicáveis de acesso, correção ou exclusão, entre em contato com a JVM Studios pelo e-mail wifiguard.suporte@gmail.com. Os dados locais podem ser removidos no próprio aplicativo. Como não recebemos uma cópia dos registros de hidratação, não podemos recuperar esses registros remotamente. Pedidos relativos a dados processados pelo Google também podem ser encaminhados pelos canais indicados em sua política.
+
+8. Crianças e orientação de saúde
+O aplicativo não é direcionado especificamente a crianças e não solicita sua identificação. Se um responsável tiver dúvidas sobre o uso por um menor, pode contatar o suporte. As metas são escolhidas pelo usuário. O aplicativo não oferece diagnóstico, tratamento ou orientação médica individualizada e não substitui um profissional de saúde.
+
+9. Alterações
+Atualizações desta política serão publicadas nesta página com a nova data de atualização. Mudanças relevantes nas práticas de dados serão refletidas nas informações do aplicativo e da loja, conforme aplicável.
